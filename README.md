@@ -8,6 +8,5 @@ ML.R                 contains functions to do maximum likelihood estimation.
 MDPD.R               contains functions to do minimum density power divergence estimation.
 RGLM.R               contains functions to do robust estimation extending robust GLM setup.
 OBR_CFC.R            contains functions to do optimally B-robust conditionnaly fisher consistent estimation.
-tuning.R             contains functions to do tune robustness tuning parameter.
+tuning.R             contains functions to tune robustness tuning parameter.
 cross_validation.R   performs 10-fold cross on two datasets.
-
